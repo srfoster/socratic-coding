@@ -97,6 +97,8 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 > **Apprentice** I got the centering to work!
 ![](./README-img/screen-shot12.png)
 
+**Master** Cool.  Pick a part that you want to look more like the wireframe.  You're the question asker in this dialogue.  I just assign work.
+
 </details>
 
  </details>
