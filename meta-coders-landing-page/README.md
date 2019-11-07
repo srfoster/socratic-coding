@@ -29,3 +29,6 @@ What should I do next?
 > **Apprentice** Getting closer I think! It looks like it's not recognizing `(bootstrap-files).
 ![](./README-img/screen-shot5.png)
 ![](./README-img/screen-shot6.png)
+
+
+**Master** `(require website/bootstrap)`.  While you're at it, update `website` and change your `(div class: "jumbotron" ...)`s to `(jumbotron ...)`.  I added that to the language just now.
