@@ -70,6 +70,7 @@ What should I do next?
 What should I do next?
 
 </details>
+</details>
 
 <details>
 <summary>Design guidance toward vision</summary>
