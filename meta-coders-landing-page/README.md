@@ -3,6 +3,10 @@
 > **Apprentice** I'm trying to translate this wireframe into a webpage. Can you help me?
 ![](./README-img/Homepage-Wireframe-1.png)
 
+
+<details>
+  
+
 **Master** The Racket `website` package would be perfect for this (https://github.com/thoughtstem/website).  Install it or update it.  In the docs, the `(render ...)` function has some sample code for making a single-page website.  Copy that into a Racket file and run it to generate a starter site.  (Post a screenshot when complete, please.)
 
 > **Apprentice** I was able to get the starter site running:
@@ -57,6 +61,7 @@ What should I do next?
 
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
 
+</details>
 
 
 
