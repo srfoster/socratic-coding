@@ -42,3 +42,4 @@ I grepped for "jumbotron" in `website` but couldn't find is except in .css files
 > **Apprentice** I had to pull from Github to get this work! Now it recognizes `(jumbotron)`, but doesn't like the ellipses:
 ![](./README-img/screen-shot8.png)
  
+**Master** Don't do ellipses.  Those are meta characters. Put some content in there.  And don't do `(html (body ...))`, do `(content ...)`.
