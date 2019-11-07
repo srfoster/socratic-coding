@@ -99,6 +99,8 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 
 **Master** Cool.  Pick a part that you want to look more like the wireframe.  You're the question asker in this dialogue.  I just assign work.
 
+> **Apprentice** Whoops. I lost my question between commits. Here it is: I noticed the apostrophe's are printing strangely: "We teach kids coding the â€œmetaâ€ way." Is there a fix for that? Also, I'd like to add 3 bootstrap cards in the 2nd jumbotron.
+
 </details>
 
  </details>
