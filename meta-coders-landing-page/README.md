@@ -121,6 +121,8 @@ Can you help me with those 3 bootstrap "cards" now?
       "Learn More")))
 ```
 
+(Note that in bootstrap, you don't have to pass all of those things in.  If you don't want a button, you can omit it.  Same for almost everything.)
+
 </details>
 
  </details>
