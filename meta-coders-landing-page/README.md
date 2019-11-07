@@ -4,3 +4,9 @@
 ![](./README-img/Homepage-Wireframe-1.png)
 
 **Teacher** The Racket `website` package would be perfect for this (https://github.com/thoughtstem/website).  Install it or update it.  In the docs, the `(render ...)` function has some sample code for making a single-page website.  Copy that into a Racket file and run it to generate a starter site.  (Post a screenshot when complete, please.)
+
+> **Student** I was able to get the starter site running:
+![](./README-img/screen-shot-1.png)
+What should I do next?
+
+
