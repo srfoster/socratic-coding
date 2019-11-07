@@ -123,6 +123,11 @@ Can you help me with those 3 bootstrap "cards" now?
 
 (Note that in bootstrap, you don't have to pass all of those things in.  If you don't want a button, you can omit it.  Same for almost everything.)
 
+> **Apprentice** I got the cards working, but they're pretty big:
+![](./README-img/screen-shot14.png)
+
+How do I make them fit them down to the right size?
+
 </details>
 
  </details>
