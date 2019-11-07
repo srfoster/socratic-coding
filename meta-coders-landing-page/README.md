@@ -32,3 +32,7 @@ What should I do next?
 
 
 **Master** `(require website/bootstrap)`.  While you're at it, update `website` and change your `(div class: "jumbotron" ...)`s to `(jumbotron ...)`.  I added that to the language just now.
+
+> **Apprentice** I updated `website` with `raco update pkg website`. But it's not recognizing the jumbotron function yet:
+![](./README-img/screen-shot7.png)
+I grepped for "jumbotron" in `website` but couldn't find is except in .css files.

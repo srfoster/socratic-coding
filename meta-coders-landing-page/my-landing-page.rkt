@@ -1,6 +1,6 @@
 #lang racket
  
-(require website)
+(require website/bootstrap)
  
 (define my-site
   (list
@@ -8,9 +8,9 @@
     (page index.html 
       (html
          (body
-            (div class: "jumbotron")
-            (div class: "jumbotron")
-            (div class: "jumbotron")
-            (div class: "jumbotron"))))))
+            (jumbotron ...)
+            (jumbotron ...)
+            (jumbotron ...)
+            (jumbotron ...))))))
  
 (render my-site #:to "output")
