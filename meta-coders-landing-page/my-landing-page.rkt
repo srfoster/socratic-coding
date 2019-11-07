@@ -5,12 +5,12 @@
 (define my-site
   (site
      (index
-       (page index.html
-         (html 
-          (body 
+       (page index.html (bootstrap-files) 
+         (html
+           (body
             (div class: "jumbotron")
             (div class: "jumbotron")
             (div class: "jumbotron")
-            (div class: "jumbotron")))))))
+            (div class: "jumbotron"))))))))
  
 (render my-site #:to "output")
