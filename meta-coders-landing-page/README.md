@@ -103,6 +103,11 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 
 **Master** You have non-ASCII characters in your strings.  Hunt them down and replace them with the escaped equivalents: e.g. \"  
 
+> **Apprentice** Awesome! These look good now:
+![](./README-img/screen-shot13.png)
+
+Can you help me with those 3 bootstrap "cards" now?
+
 </details>
 
  </details>
