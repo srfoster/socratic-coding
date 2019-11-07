@@ -7,9 +7,13 @@
     (bootstrap-files) 
     (page index.html 
       (content
-        (jumbotron  (h1 "A New Kind of Coding Education ")
+        (jumbotron style: (properties
+                            text-align: "center") 
+                    (h1 "A New Kind of Coding Education ")
                     (p "We use cutting-edge learning science research, paired with grass-roots community support to prepare kids for the future."))
-        (jumbotron  (h2 "Code the Meta Way")
+        (jumbotron style: (properties
+                            text-align: "center") 
+                    (h2 "Code the Meta Way")
                     (h3 "Kids deserve the best in coding education.")
                     (p "We teach kids coding the “meta” way. We bring the latest scientific research to the table to make sure kids are getting the most out of our classes."))
         (jumbotron  (h1 "A good education takes a village.")

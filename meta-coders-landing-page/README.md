@@ -83,7 +83,7 @@ What should I do next?
 ![](./README-img/screen-shot11.png)
 How do I justify text to the left, right, or center?
 
-> **Master** Use css attributes.  E.g.
+**Master** Use css attributes.  E.g.
 
 ```
 (div style: (properties
@@ -93,6 +93,9 @@ How do I justify text to the left, right, or center?
  ``` 
 
 But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-align.asp).
+
+> **Apprentice** I got the centering to work!
+![](./README-img/screen-shot12.png)
 
 </details>
 
