@@ -26,6 +26,9 @@ What should I do next?
 ![](./README-img/screen-shot2.png)
 What should I do next?
 
+<details>
+<summary>Get bootstrap.css built into the site, and get the index.html page to include it</summary>
+
 **Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)` instead of `(html (body ...))` -- which will wrap your content in the correct `<html><head></head><body></body></html>` structure along with the necessary includes for bootstrap's css.  Oh, and put something in each jumbotron, so we can see if we're getting closer to the wireframe. (Screenshot.)
 
 
@@ -66,6 +69,11 @@ What should I do next?
 ![](./README-img/screen-shot10.png)
 What should I do next?
 
+</details>
+
+<details>
+<summary>Design guidance toward vision</summary>
+
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
 
 > **Apprentice** This is as far as I could get:
@@ -82,6 +90,8 @@ How do I justify text to the left, right, or center?
  ``` 
 
 But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-align.asp).
+
+</details>
 
  </details>
 
