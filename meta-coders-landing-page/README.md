@@ -25,3 +25,7 @@ What should I do next?
   1) `(bootstrap-files)` needs to be outside of your index page.
   2) That `(index ...)` wrapper doesn't need to be there.
   3) Change `site` to `list`.  I'm deprecating `site`, and I need to update that in the `website` docs.   I will do that now.
+
+> **Apprentice** Getting closer I think! It looks like it's not recognizing `(bootstrap-files).
+![](./README-img/screen-shot5.png)
+![](./README-img/screen-shot6.png)
