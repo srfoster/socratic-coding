@@ -15,4 +15,4 @@ What should I do next?
 ![](./README-img/screen-shot2.png)
 What should I do next?
 
-**Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)`, which is `website/bootstrap`s shorthand for a page that links in the `bootstrap.css`.  And put something in each jumbotron. (Screenshot.)
+**Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)` instead of `(html (body ...))`; it'll make the `<html><head></head><body></body></html>` structure along with the necessary includes for bootstrap's css.  And put something in each jumbotron. (Screenshot.)
