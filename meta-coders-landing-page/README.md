@@ -43,3 +43,7 @@ I grepped for "jumbotron" in `website` but couldn't find is except in .css files
 ![](./README-img/screen-shot8.png)
  
 **Master** Don't do ellipses.  Those are meta characters. Put some content in there.  And don't do `(html (body ...))`, do `(content ...)`.
+
+> **Apprentice** It's working! Check out what I have so far:
+![](./README-img/screen-shot9.png)
+What should I do next?

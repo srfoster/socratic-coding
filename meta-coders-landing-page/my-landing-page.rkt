@@ -6,11 +6,10 @@
   (list
     (bootstrap-files) 
     (page index.html 
-      (html
-         (body
-            (jumbotron ...)
-            (jumbotron ...)
-            (jumbotron ...)
-            (jumbotron ...))))))
+      (content
+        (jumbotron (h1 "Hello"))
+        (jumbotron (h2 "How"))
+        (jumbotron (h1 "Are"))
+        (jumbotron (h2 "You?"))))))
  
 (render my-site #:to "output")
