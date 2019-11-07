@@ -38,3 +38,7 @@ What should I do next?
 I grepped for "jumbotron" in `website` but couldn't find is except in .css files.
 
 **Master** As you can see from my last commit to https://github.com/thoughtstem/website, there is a jumbotron function now.  Do the usual checks: Are you really sure you updated?  If so, find the package on your system, fine the bootstrap.rkt file,  verify there is a bootstrap function, etc.  Basically: Prove to me you got my update.
+
+> **Apprentice** I had to pull from Github to get this work! Now it recognizes `(jumbotron)`, but doesn't like the ellipses:
+![](./README-img/screen-shot8.png)
+ 
