@@ -101,7 +101,7 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 
 > **Apprentice** Whoops. I lost my question between commits. Here it is: I noticed the apostrophe's are printing strangely: "We teach kids coding the â€œmetaâ€ way." Is there a fix for that? Also, I'd like to add 3 bootstrap cards in the 2nd jumbotron.
 
-**Master** You have non-ASCII characters in your strings.  Hunt them down and replace them with the escaped equivalents: e.g. \"  
+**Master** You have non-ASCII characters in your strings.  Hunt them down and replace them with the escaped equivalents: e.g. `\"`  
 
 </details>
 
