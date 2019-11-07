@@ -66,12 +66,22 @@ What should I do next?
 ![](./README-img/screen-shot10.png)
 What should I do next?
 
-</details>
-
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
 
-</details>
+> **Apprentice** This is as far as I could get:
+![](./README-img/screen-shot11.png)
+How do I justify text to the left, right, or center?
 
+> **Master** Use css attributes.  E.g.
 
+```
+(div style: (properties
+             background-color: "red"
+             color: "green")
+ "I am a weird div tag from the 90s"))
+ ``` 
 
+But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-align.asp).
+
+ </details>
 
