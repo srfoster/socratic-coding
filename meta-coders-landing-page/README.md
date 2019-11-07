@@ -55,3 +55,7 @@ What should I do next?
 What should I do next?
 
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
+
+> **Apprentice** This is as far as I could get:
+![](./README-img/screen-shot11.png)
+How do I get the text justified to the center, left, or right?
