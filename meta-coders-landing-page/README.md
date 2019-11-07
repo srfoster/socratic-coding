@@ -126,7 +126,20 @@ Can you help me with those 3 bootstrap "cards" now?
 > **Apprentice** I got the cards working, but they're pretty big:
 ![](./README-img/screen-shot14.png)
 
-How do I make them fit them down to the right size?
+> How do I make them fit them down to the right size?
+
+**Master** Bootstrap provides the abstraction of rows and columns, which will resize things like cards to the approrpiate width.  You should actually read the whole bootstrap doc  https://getbootstrap.com/docs/4.3/layout/overview/ to get a sense for how to position things how you want, but also getting them to do responsive things on various devices.  But in this case, what you probably want is probably something like:
+
+```
+(row
+  (col 
+    (card ...))
+  (col 
+    (card ...))
+  (col 
+    (card ...)))
+```
+
 
 </details>
 
