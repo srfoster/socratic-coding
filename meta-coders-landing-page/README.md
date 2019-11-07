@@ -108,6 +108,19 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 
 Can you help me with those 3 bootstrap "cards" now?
 
+**Master** It's in the docs, but here's a card example:
+
+```
+(card
+  (card-img-top)
+  (card-body
+    (card-title "I am a card")
+    (card-subtitle "with a subtitle")
+    (card-text "Lorem ipsum ....")
+    (button-primary
+      "Learn More")))
+```
+
 </details>
 
  </details>
