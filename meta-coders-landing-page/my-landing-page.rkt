@@ -6,6 +6,11 @@
   (site
      (index
        (page index.html
-         (html (body (h1 "Hello World")))))))
+         (html 
+          (body 
+            (div class: "jumbotron")
+            (div class: "jumbotron")
+            (div class: "jumbotron")
+            (div class: "jumbotron")))))))
  
 (render my-site #:to "output")
