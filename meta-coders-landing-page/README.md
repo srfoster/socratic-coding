@@ -15,7 +15,7 @@ What should I do next?
 ![](./README-img/screen-shot2.png)
 What should I do next?
 
-**Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)` instead of `(html (body ...))`; it'll make the `<html><head></head><body></body></html>` structure along with the necessary includes for bootstrap's css.  And put something in each jumbotron. (Screenshot.)
+**Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)` instead of `(html (body ...))` -- which will wrap your content in the correct `<html><head></head><body></body></html>` structure along with the necessary includes for bootstrap's css.  Oh, and put something in each jumbotron, so we can see if we're getting closer to the wireframe. (Screenshot.)
 
 > **Apprentice** I ran into an error while I was trying to add `(bootstrap-files) to the list of pages I'm rendering. What did I do wrong?
 ![](./README-img/screen-shot3.png)
