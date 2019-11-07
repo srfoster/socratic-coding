@@ -6,6 +6,8 @@
 
 <details>
   
+<details>
+<summary>Hello World</summary>
 
 **Master** The Racket `website` package would be perfect for this (https://github.com/thoughtstem/website).  Install it or update it.  In the docs, the `(render ...)` function has some sample code for making a single-page website.  Copy that into a Racket file and run it to generate a starter site.  (Post a screenshot when complete, please.)
 
@@ -13,7 +15,10 @@
 ![](./README-img/screen-shot1.png)
 What should I do next?
 
+</details>
+
 <details>
+<summary>Convert Hello World into template for organizing wireframe ideas</summary>
 
 **Master** Your various sections in the wireframe look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
 
