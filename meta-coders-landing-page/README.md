@@ -13,6 +13,8 @@
 ![](./README-img/screen-shot1.png)
 What should I do next?
 
+<details>
+
 **Master** Your various sections in the wireframe look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
 
 > **Apprentice** It looks like it worked! 
@@ -58,6 +60,8 @@ What should I do next?
 > **Apprentice** Ohhhhh! Ok, it looks more jumbotron-y now:
 ![](./README-img/screen-shot10.png)
 What should I do next?
+
+</details>
 
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
 
