@@ -9,13 +9,14 @@
 ![](./README-img/screen-shot1.png)
 What should I do next?
 
-**Master** Your various sections in the wirefram look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
+**Master** Your various sections in the wireframe look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
 
 > **Apprentice** It looks like it worked! 
 ![](./README-img/screen-shot2.png)
 What should I do next?
 
 **Master** Almost.  Add `(bootstrap-files)` to the list of pages you're `(render ...)`ing (so the `bootstrap.css` gets rendered).  And wrap your page's content in `(content ...)` instead of `(html (body ...))` -- which will wrap your content in the correct `<html><head></head><body></body></html>` structure along with the necessary includes for bootstrap's css.  Oh, and put something in each jumbotron, so we can see if we're getting closer to the wireframe. (Screenshot.)
+
 
 > **Apprentice** I ran into an error while I was trying to add `(bootstrap-files) to the list of pages I'm rendering. What did I do wrong?
 ![](./README-img/screen-shot3.png)
@@ -56,11 +57,6 @@ What should I do next?
 
 **Master** Ignore the navbar for now.  Make the content look as close to your wireframe as possible in each jumbotron.  Use basic html tags -- e.g. `(h1 ...)`, `(h2 ...)`, etc.  Get as close as possible using those for typesetting.  Post a screenshot when you can't make it closer with what you know (and what you can find on the `website` docs).
 
-
-<details>
-<summary>...</summary>
-Test..
-</details>
 
 
 
