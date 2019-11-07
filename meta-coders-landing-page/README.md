@@ -49,3 +49,7 @@ I grepped for "jumbotron" in `website` but couldn't find is except in .css files
 What should I do next?
 
 **Master** Those don't look like jumbotrons yet... Your page is not getting your css.  I can see from your screenshot you're viewing at `file://`.  When you develop with `website`, you should have a terminal running `raco website-preview` in your output directory.  I'll make that clearer in the docs.
+
+> **Apprentice** Ohhhhh! Ok, it looks more jumbotron-y now:
+![](./README-img/screen-shot10.png)
+What should I do next?
