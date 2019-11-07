@@ -140,8 +140,13 @@ Can you help me with those 3 bootstrap "cards" now?
     (card ...)))
 ```
 
+> **Apprentice** Awesome! These cards are looking pretty good!
+![](./README-img/screen-shot15.png)
+
+How would I change dimensions of the card so they're all the same height & so that the images have a ratio of 4:3?
 
 </details>
 
  </details>
+
 
