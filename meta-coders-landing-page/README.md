@@ -13,8 +13,6 @@
 ![](./README-img/screen-shot1.png)
 What should I do next?
 
-<details>
-
 **Master** Your various sections in the wireframe look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
 
 > **Apprentice** It looks like it worked! 
@@ -65,5 +63,7 @@ What should I do next?
 
 > **Apprentice** This is as far as I could get:
 ![](./README-img/screen-shot11.png)
+How do I justify text to the left, right, or center?
+
 </details>
 
