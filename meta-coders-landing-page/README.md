@@ -36,3 +36,5 @@ What should I do next?
 > **Apprentice** I updated `website` with `raco update pkg website`. But it's not recognizing the jumbotron function yet:
 ![](./README-img/screen-shot7.png)
 I grepped for "jumbotron" in `website` but couldn't find is except in .css files.
+
+**Master** As you can see from my last commit to https://github.com/thoughtstem/website, there is a jumbotron function now.  Do the usual checks: Are you really sure you updated?  If so, find the package on your system, fine the bootstrap.rkt file,  verify there is a bootstrap function, etc.  Basically: Prove to me you got my update.
