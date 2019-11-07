@@ -1,12 +1,12 @@
-**Teacher** What is the story?
+**Master** What is the story?
 
-> **Student** I'm trying to translate this wireframe into a webpage. Can you help me?
+> **Apprentice** I'm trying to translate this wireframe into a webpage. Can you help me?
 ![](./README-img/Homepage-Wireframe-1.png)
 
-**Teacher** The Racket `website` package would be perfect for this (https://github.com/thoughtstem/website).  Install it or update it.  In the docs, the `(render ...)` function has some sample code for making a single-page website.  Copy that into a Racket file and run it to generate a starter site.  (Post a screenshot when complete, please.)
+**Master** The Racket `website` package would be perfect for this (https://github.com/thoughtstem/website).  Install it or update it.  In the docs, the `(render ...)` function has some sample code for making a single-page website.  Copy that into a Racket file and run it to generate a starter site.  (Post a screenshot when complete, please.)
 
-> **Student** I was able to get the starter site running:
+> **Apprentice** I was able to get the starter site running:
 ![](./README-img/screen-shot-1.png)
 What should I do next?
 
-
+**Master** Your various sections in the wirefram look like bootstrap jumbotrons, so let's start with those.  Use `(div class: "jumbotron")` to make as many sections as there are in your wireframe.  (Screenshot when complete.)
