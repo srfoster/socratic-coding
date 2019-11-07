@@ -106,7 +106,7 @@ But use `text-align:` instead (https://www.w3schools.com/cssref/pr_text_text-ali
 > **Apprentice** Awesome! These look good now:
 ![](./README-img/screen-shot13.png)
 
-> **Apprentice** Can you help me with those 3 bootstrap "cards" now?
+Can you help me with those 3 bootstrap "cards" now?
 
 **Master** It's in the docs, but here's a card example:
 
