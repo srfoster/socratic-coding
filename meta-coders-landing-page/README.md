@@ -20,3 +20,8 @@ What should I do next?
 > **Apprentice** I ran into an error while I was trying to add `(bootstrap-files) to the list of pages I'm rendering. What did I do wrong?
 ![](./README-img/screen-shot3.png)
 ![](./README-img/screen-shot4.png)
+
+**Master** 
+  1) `(bootstrap-files)` needs to be outside of your index page.
+  2) That `(index ...)` wrapper doesn't need to be there.
+  3) Change `site` to `list`.  I'm deprecating `site`, and I need to update that in the `website` docs.   I will do that now.
